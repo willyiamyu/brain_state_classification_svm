@@ -10,6 +10,6 @@ In the same directory as the test and retest data, run the iPython notebook "bra
 
 ### Classification
 - The datasets contain 4 states: resting state, finger, lips, or foot movement.
-- Model of choice is a Support Vector Machine (SVM) with different regularization parameters depending on the dataset.
-- Introduce a shuffled k-fold cross validation to address imbalance in the class labels and to evaluate our model.
+- Support Vector Machine (SVM) is used with different regularization parameters depending on the dataset.
+- Introduce a shuffled k-fold cross validation to address imbalance in the class labels and to evaluate model.
 
