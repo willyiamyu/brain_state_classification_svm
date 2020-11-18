@@ -2,7 +2,7 @@
 Use Support Vector Machines to identify brain state from fMRI images
 
 ## How to run: 
-In the same directory as the test and retest data, run the python script "brain_classification.py". You will then get an accuracy for the test images, and an accuracy for the retest images.
+In the same directory as the test and retest data, run the iPython notebook "brain_classification.ipynb". You will then get an accuracy for the test images, and an accuracy for the retest images.
 
 ### Image Preprocessing and Feature Selection:
 - Apply a binary mask on all the images to remove background and retain brain voxels only.
